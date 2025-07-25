@@ -1,0 +1,144 @@
+
+{
+  "Phainon": {
+    "Image": "H:/HonkaiStarRail Project/Characters/Phainon.png",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Base_Stats": {
+      "Base_HP": 1435.9,
+      "Base_ATK": 582.12,
+      "Base_DEF": 703.39,
+      "Base_SPD": 94,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+    "Traces": {
+      "SPD": [2, 3],
+      "CRIT_Rate": [5.3, 2.7, 4.0],
+      "CRIT_DMG": [5.3, 5.3, 8.0, 8.0, 10.7]
+    },
+    "Talents": {
+      "Skill": [11.7, 0.45, 4.5]
+    }
+  },
+  "Castorice": {
+    "Image": "H:/HonkaiStarRail Project/Characters/Castorice.jpeg",
+    "Rarity": 5,
+    "Path": "Remembrance",
+    "Base_Stats": {
+      "Base_HP": 1630,
+      "Base_ATK": 523.91,
+      "Base_DEF": 485.1,
+      "Base_SPD": 95,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+    "Traces": {
+      "SPD": [2, 3],
+      "CRIT_Rate": [4.0, 4.0, 5.3, 2.7, 2.7],
+      "CRIT_DMG": [5.3, 8.0],
+      "Quantum": [3.2, 6.4, 4.8]
+    },
+    "Talents": {
+      "Skill": [11.7, 0.45, 4.5]
+    }
+  },
+  "Aglaea": {
+    "Image": "Characters/Aglaea.png",
+    "Rarity": 5,
+    "Path": "Remembrance",
+    "Energy": 360,
+    "Element": "Lightning",
+    "Base_Stats": {
+      "Base_HP": 1241.86,
+      "Base_ATK": 698.54,
+      "Base_DEF": 485.1,
+      "Base_SPD": 102,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+    "Traces": {
+      "SPD": [2, 3],
+      "CRIT_Rate": [4.0, 4.0, 5.3, 2.7, 2.7],
+      "CRIT_DMG": [5.3, 8.0],
+      "Imaginary": [3.2, 6.4, 4.8]
+    },
+    "Talents": {
+      "Skill": [11.7, 0.45, 4.5]
+    }
+  },
+  "Hyacine": {
+    "Image": "Characters/Hyacine.jpeg",
+    "Rarity": 5,
+    "Path": "Remembrance",
+    "Base_Stats": {
+      "Base_HP": 1086.62,
+      "Base_ATK": 388.08,
+      "Base_DEF": 630.63,
+      "Base_SPD": 95,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+    "Traces": {
+      "SPD": [2, 3],
+      "CRIT_Rate": [4.0, 4.0, 5.3, 2.7, 2.7],
+      "CRIT_DMG": [5.3, 8.0],
+      "Wind": [3.2, 6.4, 4.8]
+    },
+    "Talents": {
+      "Skill": [11.7, 0.45, 4.5]
+    }
+  },
+  "Trailblazer (R)": {
+    "Image": "Characters/Trailblazer_Remembrance.jpg",
+    "Rarity": 5,
+    "Path": "Remembrance",
+    "Base_Stats": {
+      "Base_HP": 1047.82,
+      "Base_ATK": 543.31,
+      "Base_DEF": 630.63,
+      "Base_SPD": 95,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+    "Traces": {
+      "SPD": [2, 3],
+      "CRIT_Rate": [4.0, 4.0, 5.3, 2.7, 2.7],
+      "CRIT_DMG": [5.3, 8.0],
+      "Ice": [3.2, 6.4, 4.8]
+    },
+    "Talents": {
+      "Skill": [11.7, 0.45, 4.5]
+    }
+  }
+}
