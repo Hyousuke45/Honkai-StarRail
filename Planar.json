@@ -1,0 +1,12 @@
+{
+    "Arcadia of Woven Dreams": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Arcadia_of_Woven_Dreams.webp",
+    "Status": {"2-Piece":{"ATKpercent":10}, "4-piece":0}},
+
+    "Lushaka, the Sunken Seas": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Lushaka_the_Sunken_Seas.webp",
+    "Status": {"2-Piece":{"CRIT_DMG":16}}}
+ 
+
+
+}

@@ -1,0 +1,37 @@
+{
+  "SubstatValues": {
+    "SPD": { "low": 2, "mid": 2.3, "high": 2.6 },
+    "HPflat": { "low": 33.87, "mid": 38.103755, "high": 42.33751 },
+    "ATK": { "low": 16.935, "mid": 19.051877, "high": 21.168754 },
+    "DEF": { "low": 16.935, "mid": 19.051877, "high": 21.168754 },
+    "HPpercent": { "low": 3.456, "mid": 3.888, "high": 4.32 },
+    "ATKpercent": { "low": 3.456, "mid": 3.888, "high": 4.32 },
+    "DEFpercent": { "low": 4.32, "mid": 4.86, "high": 5.4 },
+    "Break Effect": { "low": 5.184, "mid": 5.832, "high": 6.48 },
+    "EHR": { "low": 3.456, "mid": 3.888, "high": 4.32 },
+    "Effect RES": { "low": 3.456, "mid": 3.888, "high": 4.32 },
+    "CRIT_Rate": { "low": 2.592, "mid": 2.916, "high": 3.24 },
+    "CRIT_DMG": { "low": 5.184, "mid": 5.832, "high": 6.48 }
+  },
+  "MainstatValues": {
+    "SPD": { "low": 4.032, "mid": 1.4, "high": 25.032 },
+    "HPflat": { "low": 112.896, "mid": 39.5136, "high": 705.6 },
+    "ATKflat": { "low": 56.448, "mid": 19.7568, "high": 352.8 },
+    "HPpercent": { "low": 6.912, "mid": 2.4192, "high": 43.2 },
+    "ATKpercent": { "low": 6.912, "mid": 2.4192, "high": 43.2 },
+    "DEFpercent": { "low": 8.64, "mid": 3.024, "high": 54.0 },
+    "Break Effect": { "low": 10.368, "mid": 3.6277, "high": 64.8 },
+    "EHR": { "low": 6.912, "mid": 2.4192, "high": 43.2 },
+    "ERR": { "low": 3.1104, "mid": 1.0886, "high": 19.4394 },
+    "OHB": { "low": 5.5296, "mid": 1.9354, "high": 34.5606 },
+    "Physical": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "Fire": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "Ice": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "Wind": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "Lightning": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "Quantum": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "Imaginary": { "low": 6.2208, "mid": 2.1773, "high": 38.8803 },
+    "CRIT_Rate": { "low": 5.184, "mid": 1.8144, "high": 32.4 },
+    "CRIT_DMG": { "low": 10.368, "mid": 3.6288, "high": 64.8 }
+  }
+}

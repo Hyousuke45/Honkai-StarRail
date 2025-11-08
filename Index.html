@@ -1,40 +1,375 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Honkai Star Rail Calculator</title>
-  <meta name="description" content="hello">
+  <meta name="description" content="Honkai character viewer">
+  <link rel="stylesheet" href="style.css">
 </head>
 
+
 <body>
-  <p>HELLOOOO</p>
-  <select id="characterDropdown">
-    <option>Select a character</option>
+  <div id="background">
+    <img class = "backgroundimg" src="Characters/HomePage.jpg">
+ 
+
+
+
+  <!-- Image container -->
+  <div class="image-container">
+    <img id="previousImage" class="character-image faded" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Previous Character">
+    <img id="currentImage" class="character-image visible" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Current Character">
+
+    <img id="previousImage-art" class="character-image faded" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Previous Character">
+    <img id="currentImage-art" class="character-image visible" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Current Character">
+
+    <img id="previousImage-effect" class="character-image faded" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Previous Character">
+    <img id="currentImage-effect" class="character-image visible" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Current Character">
+
+  
+    <img id="previousImage-icon" class="icon-image faded" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Previous icon">
+    <img id="currentImage-icon" class="icon-image visible" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Current icon">
+    
+
+
+    <!-- OVERLAYS BOYSSS -->
+
+
+
+
+        <div class="fade-overlay-Image">
+      
+        </div>
+      
+  </div>
+
+
+  <div>
+
+    <p id = "Character_name_previous" class = "Character_name text-highlight opacity-zero" ><strong></strong></p>
+    <p id = "Character_name_current"class = "Character_name text-highlight opacity-zero" ><strong></strong></p>
+
+    </div>
+
+    <div style = "opacity: 0.5;">
+              <img style = "opacity: 0;" id = "previous_icon" class = "path_icons" src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=">
+              <img style = "opacity: 0;" id = "current_icon" class = "path_icons" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=">
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class = "relic_container">
+
+
+<div class = "reset" id = "reset_button_div">
+  <button id = "reset_button" class = "reset_button_container">
+    <p></p><img id = "reset_icon" class = "reset_button_icon opacity-zero" src = "Misc/retry_icon-removebg-preview (1).png">
+  </button>
+  </div>
+
+
+
+ <select class = "opacity-zero" id="RelicDropdown">
+    <option value="" disabled selected hidden>Select a relic set</option>
+  </select>
+  
+ <select class = "opacity-zero" id="PlanarDropdown">
+    <option value="" disabled selected hidden>Select a planar set</option>
   </select>
 
-  <script>
-    fetch('Characters.json')
-  .then(response => {
-    if (!response.ok) throw new Error("Network response was not ok");
-    return response.json();
-  })
-  .then(data => {
-    const dropdown = document.getElementById('characterDropdown');
-    Object.keys(data).forEach(name => {
-      const option = document.createElement('option');
-      option.value = name;
-      option.textContent = name;
-      dropdown.appendChild(option);
-    });
-  })
-  .catch(error => {
-    console.error("Error loading Characters.json:", error);
-  });
+
+
+
+</div>
+
+<div class = "relic_name_display">
+
+<p class = "text-highlight" style="opacity: 0;" id = "current-relic-name">
+  </p>
+</div>
+<div class = "relic_name_display">
+<p class = "text-highlight" style="opacity: 0;"  id = "previous-relic-name">
+  </p>
+</div>
+
+
+
+<div class = "planar_name_display">
+
+<p class = "text-highlight" style="opacity: 0;" id = "current-planar-name">
+  </p>
+</div>
+
+<div class = "planar_name_display">
+<p class = "text-highlight" style="opacity: 0;" id = "previous-planar-name">
+  </p>
+
+
+</div>
+
+
+</div>
 
 
 
 
 
-  </script>
+
+
+
+
+
+
+
+
+
+<div class="dropdown-container">
+        <div class="fade-overlay-1">
+          <p class="SelectACharacter"><strong>Select a Character</strong></p>
+        </div>
+        <div class = "dropdowns">
+          <select id="characterDropdown">
+            <option value="" disabled selected hidden>Select a character</option>
+          </select>
+        </div>
+
+
+        <div class="fade-overlay-2">
+          <p class="SelectACharacter"><strong>Select a Lightcone</strong></p>
+        </div>
+        <div class = "dropdowns">
+          <select id="LightconeDropdown">
+            <option value="" disabled selected hidden>Select a Lightcones</option>
+          </select>
+        </div>
+        <div class = "lightcone-display">
+          <img id="previousImageL" class="Lightcone-image faded" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Previous Lightcone">
+          <img id="currentImageL" class="Lightcone-image visible" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=" alt="Current Lightcone">
+        </div>
+
+
+  </div>
+
+
+
+
+  <div class = "Main_Stats opacity-zero" id = "Main_Stats_Label">
+    <!-- <img src="grey.jpg" id ="black" class = "opacity-zero" /> -->
+
+        <!-- <img src="grey.jpg" id ="black" class = "opacity-zero" /> -->
+
+
+
+    <div id = "temp">
+        <img  src="Black.webp"  />
+    </div>
+
+
+
+    <div id = "black_panel1">
+        <div id = "panel1"  class = "opacity-zero">
+          
+          
+              <p class = "HP stat-final1" id="Main_Stats_Display_HP">
+              </p>
+              <p class = "HP_final stat-final2" id="Main_Stats_Display_HP_final">
+              </p>
+
+
+
+
+              <p class = "ATK stat-final1" id="Main_Stats_Display_ATK">
+                </p>
+              <p class = "ATK_final stat-final2" id="Main_Stats_Display_ATK_final">
+               </p>
+
+
+              <p class = "DEF stat-final1" id="Main_Stats_Display_DEF"><strong>
+                </strong></p>
+              <p class = "DEF_final stat-final2" id="Main_Stats_Display_DEF_final"><strong>
+                </strong></p>
+
+
+              <p class = "SPD stat-final1" id="Main_Stats_Display_SPD"><strong>
+                </strong></p>
+
+              <p class = "SPD_final stat-final2" id="Main_Stats_Display_SPD_final"><strong>
+                </strong></p>
+
+
+
+              <p class = "CRTr stat-final1" id="Main_Stats_Display_CRTr"><strong>
+                  </strong></p>
+                <p class = "CRTr_final stat-final2" id="Main_Stats_Display_CRTr_final"><strong>
+                  </strong></p>
+
+              <p class = "CRTd stat-final1" id="Main_Stats_Display_CRTd"><strong>
+                  </strong></p>
+        
+              <p class = "CRTd_final stat-final2" id="Main_Stats_Display_CRTd_final"><strong>
+                  </strong></p>
+
+          
+              
+        </div>
+    </div>
+
+    <div id = "black_panel3">
+
+        <div id = "panel3" class = "opacity-zero">
+
+          
+           
+            <p id="Stats_Display"><strong></strong></p>
+                  
+          
+          
+            
+            <p class = "HP stat-final1" id = "BE"><strong>
+              </strong></p>
+
+            <p class = "HP_final stat-final2" id = "BE_final"><strong>
+              </strong></p>
+
+
+            <p class = "ATK stat-final1" id = "ERR"><strong>
+              </strong></p>
+            <p class = "ATK_final stat-final2" id = "ERR_final"><strong>
+              </strong></p>
+
+
+            <p class = "DEF stat-final1" id = "EHR"><strong>
+              </strong></p>
+            <p class = "DEF_final stat-final2" id = "EHR_final"><strong>
+              </strong></p>
+
+
+            <p class = "SPD stat-final1" id = "ER"><strong>
+              </strong></p>
+            <p class = "SPD_final stat-final2" id = "ER_final"><strong>
+              </strong></p>
+
+            <p class = "CRTr stat-final1" id = "OH"><strong>
+              </strong></p>
+
+            <p class = "CRTr_final stat-final2" id = "OH_final"><strong>
+              </strong></p>
+
+
+            <p class = "CRTd stat-final1" id = "ElementalDMG"><strong>
+              </strong></p>
+            <p class = "CRTd_final stat-final2" id = "ElementalDMG_final"><strong>
+              </strong></p>
+
+
+
+      </div>
+
+    </div>
+
+
+
+
+
+
+      <div id = "black_panel2">
+        <img id = "panel2" src="Black.webp" class = "opacity-zero" />
+
+      </div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
-</html>
+
+<script src="calculation.js"></script>
+<script src="script.js"></script>
+
+ 

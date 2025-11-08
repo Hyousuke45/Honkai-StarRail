@@ -1,0 +1,39 @@
+{
+
+"Ice": "Elements/Icons/ice-damage_type_icon_50.webp",
+"Lightning": "Elements/Icons/lightning-damage_type_icon_50.webp" ,
+"Physical": "Elements/Icons/physical-damage_type_icon_50.webp",
+"Quantum": "Elements/Icons/quantum-damage_type_icon_50.webp",
+"Wind": "Elements/Icons/wind-damage_type_icon_50.webp",
+"Imaginary": "Elements/Icons/imaginary-damage_type_icon_50.webp",
+"Fire" : "Elements/Icons/fire-damage_type_icon_50.webp",
+
+
+"Abundance":"Paths/Large/Path_Abundance.webp",
+"Destruction":"Paths/Large/Path_Destruction.webp",
+"Erudition":"Paths/Large/Path_Erudition.webp",
+"Harmony":"Paths/Large/Path_Harmony.webp",
+"Nihility":"Paths/Large/Path_Nihility.webp",
+"Preservation": "Paths/Large/Path_Preservation.webp",
+"Remembrance": "Paths/Large/Path_Remembrance.webp", 
+"Hunt": "Paths/Large/Path_The_Hunt.webp",
+
+"HP_icon" : "Status/Icons/Icon_HP.webp",
+"ATK_icon" : "Status/Icons/Icon_ATK.webp",
+"DEF_icon" : "Status/Icons/Icon_DEF.webp",
+"SPD_icon" : "Status/Icons/Icon_SPD.webp",
+"CRITRate_icon":"Status/Icons/Icon_CRIT_Rate.webp",
+"CRITDMG_icon": "Status/Icons/Icon_CRIT_DMG.webp",
+
+
+"Break_effect_icon" : "Status/Icons/Icon_Break_Effect.webp",
+"Energy_regen_icon" : "Status/Icons/Icon_Energy.webp",
+"Effect_hit_rate_icon" : "Status/Icons/Icon_Effect_Hit_Rate.webp",
+"Effect_res" : "Status/Icons/Icon_Effect_RES.webp",
+"Healing" : "Status/Icons/Icon_Outgoing_Healing_Boost.webp"
+
+
+}
+
+
+

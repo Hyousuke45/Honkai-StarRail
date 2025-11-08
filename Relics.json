@@ -1,0 +1,82 @@
+{
+    "Musketeer of Whild Wheat": 
+    {"Icon": "Relic_Planar/Relic-icons/Item_Musketeer_of_Wild_Wheat.webp",
+    "Status": {"2-Piece":{"ATKpercent":12,"Description": "<stronng>ATK</strong> increased by <strong>12%.</strong>"}, "4-piece":0}},
+
+    "Wavestrider Captain": 
+    {"Icon": "Relic_Planar/Relic-icons/Item_Wavestrider_Captain.webp",
+    "Status": {"2-Piece":{"CRIT_DMG":16, "Description": "<strong>Crit DMG</strong> increased by <strong>16%.</strong>"}, "4-piece":0}},
+
+    "Band of Sizzling Thunder":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Band_of_Sizzling_Thunder.webp",
+    "Status": {"2-Piece":{"Lightning":10, "Description": "<span class='Lightning'><strong>Lightning</span> DMG</strong> Increased by <strong>10%</strong>."}, "4-piece":0}
+    },
+
+     "Champion of Streetwise Boxing":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Champion_of_Streetwise_Boxing.webp",
+    "Status": {"2-Piece":{"Physical":10, "Description": "<span class='Physical'><strong>Physical</span> DMG</strong> Increased by <strong>10%</strong>."}, "4-piece":0}
+    },
+
+     "Eagle of Twilight Line":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Champion_of_Streetwise_Boxing.webp",
+    "Status": {"2-Piece":{"Wind":10, "Description": "<span class='Wind'><strong>Wind</span> DMG</strong> Increased by <strong>10%</strong>."}, "4-piece":0}
+    },
+    
+    
+    "Firesmith of Lava-Forging":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Firesmith_of_Lava-Forging.webp",
+    "Status": {"2-Piece":{"Fire":10, "Description": "<span class='Fire'><strong>Fire</span> DMG</strong> Increased by <strong>10%</strong>."}, "4-piece":0}
+    },
+    
+     "Genius of Brilliant Stars":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Genius_of_Brilliant_Stars.webp",
+    "Status": {"2-Piece":{"Quantum":10, "Description": "<span class='Quantum'><strong>Quantum</span> DMG</strong> Increased by <strong>10%</strong>."}, "4-piece":0}
+    },
+
+    "Guard of Wuthering Snow":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Guard_of_Wuthering_Snow.webp",
+    "Status": {"2-Piece":{"Reduc_DMG_taken":8, "Description": "<strong>Reduces DMG</strong> taken by <strong>8%</strong>."}, "4-piece":0}
+    },
+
+    "Hero of Triumphant Song":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Hero_of_Triumphant_Song.webp",
+    "Status": {"2-Piece":{"ATKpercent":12,"Description": "<strong>ATK</strong> increased by <strong>12%.</strong>"}, "4-piece":0}
+    },
+
+    "Hunter of Glacial Forest":
+    {"Icon": "Relic_Planar/Planar-icons/Item_Hunter_of_Glacial_Forest.webp",
+     "Status": {"2-Piece":{"Ice":10, "Description": "<span class='Ice'><strong>Ice</span> DMG</strong> Increased by <strong>10%</strong>."}, "4-piece":0}
+    },
+
+     "Iron Cavalry Against the Scourge": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Iron_Cavalry_Against_the_Scourge.webp",
+    "Status": {"2-Piece":{"Break_effect":16,"Description": "<strong>Break Effect</strong> increased by <strong>16%.</strong>"}, "4-piece":0}},
+
+    "Knight of Purity Palace": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Knight_of_Purity_Palace.webp",
+    "Status": {"2-Piece":{"DEFpercent":15,"Description": "<strong>DEF</strong> increased by <strong>15%.</strong>"}, "4-piece":0}},
+
+    "Longevous Disciple": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Longevous_Disciple.webp",
+    "Status": {"2-Piece":{"HPpercent":12,"Description": "<strong>Max HP</strong> increased by <strong>12%.</strong>"}, "4-piece":0}},
+
+    "Messenger Traversing Hackerspace": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Messenger_Traversing_Hackerspace.webp",
+    "Status": {"2-Piece":{"SPD":6,"Description": "<strong>SPD</strong> increased by <strong>6%.</strong>"}, "4-piece":{"SPD":0}}},
+
+     "Passerby of Wandering Cloud": 
+    {"Icon": "Relic_Planar/Planar-icons/Item_Passerby_of_Wandering_Cloud.webp",
+    "Status": {"2-Piece":{"Healing":10,"Description": "<strong>Outgoing Healing</strong> increased by <strong>10%.</strong>"}, "4-piece":0}}
+
+
+
+
+
+
+
+
+}
+
+
+
+ 

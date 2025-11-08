@@ -1,0 +1,341 @@
+
+
+
+{
+    "Something Irreplaceable": {
+        "Image" :"Lightcones/Destruction/Something Irreplaceable.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 582.12, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "The Unreachable Side": {
+        "Image" : "Lightcones/Destruction/The Unreachable Side.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1270.08, "Base_ATK": 582.12, "Base_DEF": 330.75, "Base_SPD": 0}
+    },
+    "I Shall Be My Own Sword": {
+        "Image" : "Lightcones/Destruction/i-shall-be-my-own-sword.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 582.12, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Brighter Than the Sun": {
+        "Image" : "Lightcones/Destruction/brighter-than-the-sun.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 635.04, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "On the Fall of an Aeon": {
+        "Image" : "Lightcones/Destruction/on-the-fall-of-an-aeon.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 529.2, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Whereabouts Should Dreams Rest": {
+        "Image" : "Lightcones/Destruction/whereabouts-should-dreams-rest.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 476.28, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Dance at Sunset": {
+        "Image" : "Lightcones/Destruction/dance-at-sunset.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Flame of Blood, Blaze My Path": {
+        "Image" : "Lightcones/Destruction/flame-of-blood-blaze-my-path.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 1375.92, "Base_ATK": 476.28, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Thus Burns the Dawn": {
+        "Image": "Lightcones/Destruction/thus-burns-the-dawn.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 687.96, "Base_DEF": 396.9, "Base_SPD": 12}
+    },
+    "A Thankless Coronation": {
+        "Image" : "Lightcones/Destruction/a-thankless-coronation.webp",
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+
+
+
+
+    "In the Night": {
+        "Image" : "Lightcones/Hunt/in-the-night.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Sleep Like the Dead": {
+        "Image" : "Lightcones/Hunt/sleep-like-the-dead.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Worrisome, Blissful": {
+        "Image" : "Lightcones/Hunt/worrisome-blissful.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Cruising in the Stellar Sea": {
+        "Image" : "Lightcones/Hunt/cruising-in-the-stellar-sea.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 529.2, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Baptism of Pure Thought": {
+        "Image" : "Lightcones/Hunt/baptism-of-pure-thought.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Sailing Towards a Second Life": {
+        "Image" : "Lightcones/Hunt/sailing-towards-a-second-life.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "I Venture Forth to Hunt": {
+        "Image" : "Lightcones/Hunt/i-venture-forth-to-hunt.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 635.04, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "The Hell Where Ideals Burn": {
+        "Image" : "Lightcones/Hunt/the-hell-where-ideals-burn.webp",
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+
+
+
+
+    "Night on the Milky Way": {
+        "Image": "Lightcones/Erudition/night-on-the-milky-way.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 582.12, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Before Dawn": {
+        "Image": "Lightcones/Erudition/before-dawn.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "An Instant Before A Gaze": {
+        "Image": "Lightcones/Erudition/an-instant-before-a-gaze.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Eternal Calculus": {
+        "Image": "Lightcones/Erudition/eternal-calculus.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 529.2, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Yet Hope Is Priceless": {
+        "Image": "Lightcones/Erudition/yet-hope-is-priceless.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Ninjutsu Inscription: Dazzling Evilbreaker": {
+        "Image": "Lightcones/Erudition/ninjutsu-inscription-dazzling-evilbreaker.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Into the Unreachable Veil": {
+        "Image": "Lightcones/Erudition/into-the-unreachable-veil.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 635.04, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Life Should Be Cast to Flames": {
+        "Image": "Lightcones/Erudition/life-should-be-cast-to-flames.webp",
+        "Rarity": 5,
+        "Path": "Erudition",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+
+
+
+    "But the Battle Isn't Over": {
+        "Image": "Lightcones/Harmony/but-the-battle-isnt-over.webp",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 529.2, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Past Self in Mirror": {
+        "Image": "Lightcones/Harmony/past-self-in-mirror.webp",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 529.2, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Earthly Escapade": {
+        "Image": "Lightcones/Harmony/earthly-escapade.webp",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 529.2, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Flowing Nightglow": {
+        "Image": "Lightcones/Harmony/flowing-nightglow.webp",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 635.04, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "A Grounded Ascent": {
+        "Image": "Lightcones/Harmony/a-grounded-ascent.webp",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 476.28, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "If Time Were a Flower": {
+        "Image": "Lightcones/Harmony/if-time-were-a-flower.webp",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 1270.08, "Base_ATK": 529.2, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Era Engraved By Golden Blood": {
+        "Image": "",
+        "Rarity": 5,
+        "Path": "Harmony",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 635.04, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    
+
+
+    "In the Name of the World": {
+        "Image": "Lightcones/Nihility/in-the-name-of-the-world.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Patience Is All You Need": {
+        "Image": "Lightcones/Nihility/patience-is-all-you-need.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Incessant Rain": {
+        "Image": "Lightcones/Nihility/incessant-rain.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Solitary Healing": {
+        "Image": "Lightcones/Nihility/solitary-healing.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 529.2, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Reforged Remembrance": {
+        "Image": "Lightcones/Nihility/reforged-remembrance.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 582.12, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Along the Passing Shore": {
+        "Image": "Lightcones/Nihility/along-the-passing-shore.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 635.04, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Those Many Springs": {
+        "Image": "Lightcones/Nihility/those-many-springs.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Long Road Leads Home": {
+        "Image": "Lightcones/Nihility/long-road-leads-home.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 476.28, "Base_DEF": 661.5, "Base_SPD": 0}
+    },
+    "Lies Dance on the Breeze": {
+        "Image": "Lightcones/Nihility/lies-dance-on-the-breeze.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 582.12, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Why Does the Ocean Sing": {
+        "Image": "Lightcones/Nihility/why-does-the-ocean-sing.webp",
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Base_Stats": {"Base_HP": 952.56, "Base_ATK": 635.04, "Base_DEF": 463.05, "Base_SPD": 0}
+},
+
+
+
+    "Moment of Victory": {
+        "Image": "Lightcones/Preservation/moment-of-victory.webp",
+        "Rarity": 5,
+        "Path": "Preservation",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 476.28, "Base_DEF": 595.35, "Base_SPD": 0}
+    },
+    "She Already Shut Her Eyes": {
+        "Image": "Lightcones/Preservation/she-already-shut-her-eyes.webp",
+        "Rarity": 5,
+        "Path": "Preservation",
+        "Base_Stats": {"Base_HP": 1270.08, "Base_ATK": 423.36, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Texture of Memories": {
+        "Image": "Lightcones/Preservation/texture-of-memories.webp",
+        "Rarity": 5,
+        "Path": "Preservation",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 423.36, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Inherently Unjust Destiny": {
+        "Image": "Lightcones/Preservation/inherently-unjust-destiny.webp",
+        "Rarity": 5,
+        "Path": "Preservation",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 423.36, "Base_DEF": 661.5, "Base_SPD": 0}
+    },
+
+
+
+    "Echoes of the Coffin": {
+        "Image": "Lightcones/Abundance/echoes-of-the-coffin.webp",
+        "Rarity": 5,
+        "Path": "Abundance",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 582.12, "Base_DEF": 396.9, "Base_SPD": 0}
+    },
+    "Time Waits for No One": {
+        "Image": "Lightcones/Abundance/time-waits-for-no-one.webp",
+        "Rarity": 5,
+        "Path": "Abundance",
+        "Base_Stats": {"Base_HP": 1270.08, "Base_ATK": 476.28, "Base_DEF": 463.05, "Base_SPD": 0}
+    },
+    "Night of Fright": {
+        "Image": "Lightcones/Abundance/night-of-fright.webp",
+        "Rarity": 5,
+        "Path": "Abundance",
+        "Base_Stats": {"Base_HP": 1164.24, "Base_ATK": 476.28, "Base_DEF": 529.2, "Base_SPD": 0}
+    },
+    "Scent Alone Stays True": {
+        "Image": "Lightcones/Abundance/scent-alone-stays-true.webp",
+        "Rarity": 5,
+        "Path": "Abundance",
+        "Base_Stats": {"Base_HP": 1058.4, "Base_ATK": 529.2, "Base_DEF": 529.2, "Base_SPD": 0}
+    }
+}
+
+
+
+
+
+
+
+
+
+

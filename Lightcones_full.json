@@ -1,0 +1,102 @@
+{
+    "Something Irreplaceable": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1164.24,
+            "Base_ATK": 582.12,
+            "Base_DEF": 396.9,
+            "Base_SPD": 0
+        }
+    },
+    "The Unreachable Side": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1270.08,
+            "Base_ATK": 582.12,
+            "Base_DEF": 330.75,
+            "Base_SPD": 0
+        }
+    },
+    "I Shall Be My Own Sword": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1164.24,
+            "Base_ATK": 582.12,
+            "Base_DEF": 396.9,
+            "Base_SPD": 0
+        }
+    },
+    "Brighter Than the Sun": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1058.4,
+            "Base_ATK": 635.04,
+            "Base_DEF": 396.9,
+            "Base_SPD": 0
+        }
+    },
+    "On the Fall of an Aeon": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1058.4,
+            "Base_ATK": 529.2,
+            "Base_DEF": 396.9,
+            "Base_SPD": 0
+        }
+    },
+    "Whereabouts Should Dreams Rest": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1164.24,
+            "Base_ATK": 476.28,
+            "Base_DEF": 529.2,
+            "Base_SPD": 0
+        }
+    },
+    "Dance at Sunset": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1058.4,
+            "Base_ATK": 582.12,
+            "Base_DEF": 463.05,
+            "Base_SPD": 0
+        }
+    },
+    "Flame of Blood, Blaze My Path": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 1375.92,
+            "Base_ATK": 476.28,
+            "Base_DEF": 396.9,
+            "Base_SPD": 0
+        }
+    },
+    "Thus Burns the Dawn": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 952.56,
+            "Base_ATK": 687.96,
+            "Base_DEF": 396.9,
+            "Base_SPD": 12
+        }
+    },
+    "A Thankless Coronation": {
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Base_Stats": {
+            "Base_HP": 952.56,
+            "Base_ATK": 582.12,
+            "Base_DEF": 529.2,
+            "Base_SPD": 0
+        }
+    }
+}

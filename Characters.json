@@ -1,9 +1,18 @@
 
 {
   "Phainon": {
-    "Image": "H:/HonkaiStarRail Project/Characters/Phainon.png",
+    "Image_Marketing": "Characters/Drip Marketing/Phainon.png",
+    "Splash_art": "Characters/Splash Art/phainon-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/phainon-character_action_side_icon.webp",
+    "Character_Splash_art" : "Characters/Splash Art/Character-splash/Destruction/phainon-character_cut_in_icon.png",
+    "Character_Splash_background" : "Characters/Splash Art/Character-background/Destruction/phainon-character_cut_in_bg.webp",
+    "Character_Splash_effect" : "Characters/Splash Art/Character-effect/Destruction/phainon-character_foreground_bg.webp",
+
+
     "Rarity": 5,
     "Path": "Destruction",
+    "Element":"Physical",
+
     "Base_Stats": {
       "Base_HP": 1435.9,
       "Base_ATK": 582.12,
@@ -27,8 +36,344 @@
       "Skill": [11.7, 0.45, 4.5]
     }
   },
+
+
+
+
+
+  "Saber": {
+    "Image_Marketing": "Characters/Drip Marketing/Saber.png",
+    "Splash_art": "Characters/Splash Art/saber-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/saber-character_action_side_icon.webp",
+
+
+    "Character_Splash_art" : "Characters/Splash Art/Character-splash/Destruction/saber-character_cut_in_icon.webp",
+    "Character_Splash_background" : "Characters/Splash Art/Character-background/Destruction/saber-character_cut_in_bg.webp",
+    "Character_Splash_effect" : "Characters/Splash Art/Character-effect/Destruction/saber-character_foreground_bg.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Wind",
+    "Base_Stats": {
+      "Base_HP": 1241.86,
+      "Base_ATK": 601.52,
+      "Base_DEF": 654.88,
+      "Base_SPD": 101,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+
+     "Traces": {
+      "CRIT_Rate": [2.7, 4, 5.3],
+      "CRIT_DMG": [0],
+      "Wind": [3.2, 4.8, 4.8, 6.4, 3.2],
+      "HPpercent": [4, 6]
+    },
+    "Talents": {
+      "Skill": 0
+    }
+
+
+  },
+  "Clara": {
+    "Image_Marketing": "Characters/Drip Marketing/Clara.png",
+    "Splash_art": "Characters/Splash Art/clara-character_cut_in_front.webp",
+
+    "Icon" : "Characters/icon/Destruction/clara-character_action_side_icon.webp",
+
+    "Character_Splash_art" : "Characters/Splash Art/Character-splash/Destruction/clara-character_cut_in_icon.webp",
+    "Character_Splash_background" : "Characters/Splash Art/Character-background/Destruction/clara-character_cut_in_bg.webp",
+    "Character_Splash_effect" : "Characters/Splash Art/Character-effect/Destruction/clara-character_foreground_bg.webp",
+    "Element":"Physical",
+
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Base_Stats": {
+      "Base_HP": 1241.86,
+      "Base_ATK": 737.35,
+      "Base_DEF": 485.1,
+      "Base_SPD": 90,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+  
+
+  },
+  "Blade": {
+    "Image_Marketing": "Characters/Drip Marketing/Blade.png",
+    "Splash_art": "Characters/Splash Art/blade-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/blade-character_action_side_icon.webp",
+    "Character_Splash_art" : "Characters/Splash Art/Character-splash/Destruction/blade-character_cut_in_icon.webp",
+    "Character_Splash_background" : "Characters/Splash Art/Character-background/Destruction/blade-character_cut_in_bg.webp",
+    "Character_Splash_effect" : "Characters/Splash Art/Character-effect/Destruction/blade-character_foreground_bg.webp",
+    "Element":"Wind",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Base_Stats": {
+      "Base_HP": 1358.82,
+      "Base_ATK": 543.31,
+      "Base_DEF": 485.1,
+      "Base_SPD": 97,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+
+
+
+
+
+
+
+
+
+  },
+  "Jingliu": {
+    "Image_Marketing": "Characters/Drip Marketing/Jingliu.png",
+    "Splash_art": "Characters/Splash Art/jingliu-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/jingliu-character_action_side_icon.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Ice",
+    "Base_Stats": {
+      "Base_HP": 1435.9,
+      "Base_ATK": 679.14,
+      "Base_DEF": 485.1,
+      "Base_SPD": 96,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    },
+
+
+     "Traces": {
+      "CRIT_Rate": [2.7, 4, 5.3],
+      "CRIT_DMG": [0],
+      "Ice": [3.2, 4.8, 4.8, 6.4, 3.2],
+      "HPpercent": [4, 6]
+
+     }
+  },
+    
+
+
+
+  "Dan Heng • Imbibitor Lunae": {
+    "Image_Marketing": "Characters/Drip Marketing/Imbibitor Lunae.png",
+    "Splash_art": "Characters/Splash Art/dan-heng-imbibitor-lunae-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/dan-heng-imbibitor-lunae-character_action_side_icon.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Imaginary",
+    "Base_Stats": {
+      "Base_HP": 1241.86,
+      "Base_ATK": 698.54,
+      "Base_DEF": 363.83,
+      "Base_SPD": 102,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+  },
+
+
+
+  "Yunli": {
+    "Image_Marketing": "Characters/Drip Marketing/Yunli.png",
+    "Splash_art": "Characters/Splash Art/yunli-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/yunli-character_action_side_icon.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Physical",
+    "Base_Stats": {
+      "Base_HP": 1358.28,
+      "Base_ATK": 679.14,
+      "Base_DEF": 460.85,
+      "Base_SPD": 94,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+  },
+
+
+  "Firefly": {
+    "Image_Marketing": "Characters/Drip Marketing/Firefly.png",
+    "Splash_art": "Characters/Splash Art/firefly-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/firefly-character_action_side_icon.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Fire",
+    "Base_Stats": {
+      "Base_HP": 814.97,
+      "Base_ATK": 523.91,
+      "Base_DEF": 776.16,
+      "Base_SPD": 104,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+  },
+
+  "Mydei": {
+    "Image_Marketing": "Characters/Drip Marketing/Mydei.png",
+    "Splash_art": "Characters/Splash Art/mydei-character_cut_in_front.webp",
+    "Icon" : "Characters/icon/Destruction/mydei-character_action_side_icon.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Imaginary",
+    "Base_Stats": {
+      "Base_HP": 1532.32,
+      "Base_ATK": 426.89,
+      "Base_DEF": 194.04,
+      "Base_SPD": 95,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+  },
+  
+
+  "Trailblazer (Destruction)": {
+    "Image_Marketing": "Characters/Drip Marketing/Trailblazer.png",
+    "Splash_art": "Characters/Splash Art/trailblazer-character-2_cut_in_front.webp",
+    "Icon" :"Characters/icon/Destruction/trailblazer-character-2_action_side_icon.webp",
+    "Rarity": 5,
+    "Path": "Destruction",
+    "Element":"Physical",
+    "Base_Stats": {
+      "Base_HP": 1203.05,
+      "Base_ATK": 620.93,
+      "Base_DEF": 460.85,
+      "Base_SPD": 100,
+      "Base_CritRate": 5,
+      "Base_CritDMG": 50,
+      "Base_EHR": 0,
+      "Base_ERes": 0,
+      "Base_Healing": 0,
+      "Base_ERR": 100,
+      "Base_Break_Effect": 0,
+      "Base_ElementalDMG": 0
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   "Castorice": {
-    "Image": "H:/HonkaiStarRail Project/Characters/Castorice.jpeg",
+    "Image_Marketing": "Characters/Drip Marketing/Castorice.jpeg",
+    "Splash_art" : "Characters/Splash Art/castorice-character_cut_in_front.webp",
+    "Character_Splash_art" : "Characters/Splash Art/Character-splash/Remembrance/castorice-character_cut_in_icon.webp",
+    "Character_Splash_background" : "Characters/Splash Art/Character-background/Remembrance/castorice-character_cut_in_bg.webp",
+    "Character_Splash_effect" : "Characters/Splash Art/Character-effect/Remembrance/castorice-character_foreground_bg.webp",
+    "Icon" :"Characters/icon/Remembrance/castorice-character_action_side_icon.webp",
+    "Element":"Quantum",
     "Rarity": 5,
     "Path": "Remembrance",
     "Base_Stats": {
@@ -56,7 +401,11 @@
     }
   },
   "Aglaea": {
-    "Image": "Characters/Aglaea.png",
+    "Image_Marketing": "Characters/Drip Marketing/Aglaea.png",
+    "Splash_art" : "Characters/Splash Art/aglaea-character_cut_in_front.webp",
+    "Icon" :"Characters/icon/Remembrance/aglaea-character_action_side_icon.webp",
+
+    
     "Rarity": 5,
     "Path": "Remembrance",
     "Energy": 360,
@@ -79,15 +428,20 @@
       "SPD": [2, 3],
       "CRIT_Rate": [4.0, 4.0, 5.3, 2.7, 2.7],
       "CRIT_DMG": [5.3, 8.0],
-      "Imaginary": [3.2, 6.4, 4.8]
+      "Lightning": [3.2, 6.4, 4.8]
     },
     "Talents": {
       "Skill": [11.7, 0.45, 4.5]
     }
   },
+
+
   "Hyacine": {
-    "Image": "Characters/Hyacine.jpeg",
+   "Image_Marketing": "Characters/Drip Marketing/Hyacine.jpeg",
+   "Splash_art" : "Characters/Splash Art/hyacine-character_cut_in_front.webp",
+   "Icon" :"Characters/icon/Remembrance/hyacine-character_action_side_icon.webp",
     "Rarity": 5,
+    "Element":"Wind",
     "Path": "Remembrance",
     "Base_Stats": {
       "Base_HP": 1086.62,
@@ -112,9 +466,14 @@
     "Talents": {
       "Skill": [11.7, 0.45, 4.5]
     }
+
   },
-  "Trailblazer (R)": {
-    "Image": "Characters/Trailblazer_Remembrance.jpg",
+  "Trailblazer (Remembrance)": {
+    "Image_Marketing": "Characters/Drip Marketing/Trailblazer_Remembrance.jpg",
+    "Splash_art" : "Characters/Splash Art/trailblazer-remembrance-stelle.webp",
+    "Icon" :"Characters/icon/Remembrance/trailblazer-character-8_action_side_icon.webp",
+    "Element":"Ice",
+
     "Rarity": 5,
     "Path": "Remembrance",
     "Base_Stats": {
